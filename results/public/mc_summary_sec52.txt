@@ -1,0 +1,52 @@
+Section 5.2 export summary  27-Sep-2026 12:07:28
+
+Gap definition: 100*(beta_relax - beta_DE)/|beta_DE|  (%n_total: 30
+n_certified: 30
+n_uncertified: 0
+gap_pct_mean: 45.8422
+gap_pct_median: 13.8541
+gap_pct_std: 83.0558
+gap_pct_iqr25: 6.24062
+gap_pct_iqr75: 44.0617
+delta_beta_mean: 0.858365
+delta_beta_std: 1.29954
+vol_ratio_mean: 0.603123
+vol_ratio_std: 0.287528
+frac_conservative: 1
+t_relax_median: 62.402
+t_relax_mean: 59.7508
+t_de_median: 1491.6
+t_de_mean: 1538.14
+n_timed: 30
+
+--- per seed ---
+seed=20261121  beta_r=-9.4402  beta_d=-10.1015  gap=+6.5%  dBeta=+0.6613  cert=1  t_relax=74s  t_de=1539s
+seed=20261123  beta_r=-0.8416  beta_d=-1.5045  gap=+44.1%  dBeta=+0.6629  cert=1  t_relax=43s  t_de=1352s
+seed=20261124  beta_r=-1.2602  beta_d=-2.4332  gap=+48.2%  dBeta=+1.1729  cert=1  t_relax=12s  t_de=1473s
+seed=20261125  beta_r=-2.9954  beta_d=-3.4477  gap=+13.1%  dBeta=+0.4523  cert=1  t_relax=101s  t_de=1348s
+seed=20261126  beta_r=-2.9036  beta_d=-3.1557  gap=+8.0%  dBeta=+0.2521  cert=1  t_relax=96s  t_de=1383s
+seed=20261128  beta_r=-3.2928  beta_d=-3.5098  gap=+6.2%  dBeta=+0.2170  cert=1  t_relax=64s  t_de=1347s
+seed=20261129  beta_r=-0.1473  beta_d=-4.0889  gap=+96.4%  dBeta=+3.9416  cert=1  t_relax=61s  t_de=1486s
+seed=20261130  beta_r=-5.8389  beta_d=-6.8362  gap=+14.6%  dBeta=+0.9974  cert=1  t_relax=95s  t_de=1629s
+seed=20261131  beta_r=-1.3713  beta_d=-1.5397  gap=+10.9%  dBeta=+0.1684  cert=1  t_relax=79s  t_de=1432s
+seed=20261132  beta_r=-1.2969  beta_d=-1.7532  gap=+26.0%  dBeta=+0.4563  cert=1  t_relax=19s  t_de=1564s
+seed=20261133  beta_r=0.5872  beta_d=0.4035  gap=+45.5%  dBeta=+0.1837  cert=1  t_relax=34s  t_de=1954s
+seed=20261134  beta_r=1.7693  beta_d=1.7073  gap=+3.6%  dBeta=+0.0620  cert=1  t_relax=56s  t_de=1464s
+seed=20261135  beta_r=-3.5435  beta_d=-4.3230  gap=+18.0%  dBeta=+0.7794  cert=1  t_relax=97s  t_de=1621s
+seed=20261136  beta_r=-1.1602  beta_d=-1.3097  gap=+11.4%  dBeta=+0.1494  cert=1  t_relax=27s  t_de=1526s
+seed=20261137  beta_r=-2.8741  beta_d=-3.0975  gap=+7.2%  dBeta=+0.2234  cert=1  t_relax=34s  t_de=1497s
+seed=20261138  beta_r=0.0202  beta_d=-1.1998  gap=+101.7%  dBeta=+1.2200  cert=1  t_relax=83s  t_de=1403s
+seed=20261139  beta_r=-12.7752  beta_d=-13.5073  gap=+5.4%  dBeta=+0.7320  cert=1  t_relax=104s  t_de=1326s
+seed=20261140  beta_r=-9.8932  beta_d=-10.5517  gap=+6.2%  dBeta=+0.6585  cert=1  t_relax=56s  t_de=1527s
+seed=20261141  beta_r=-0.8642  beta_d=-0.9164  gap=+5.7%  dBeta=+0.0522  cert=1  t_relax=25s  t_de=2403s
+seed=20261142  beta_r=0.9857  beta_d=0.9341  gap=+5.5%  dBeta=+0.0516  cert=1  t_relax=25s  t_de=1717s
+seed=20261143  beta_r=1.3050  beta_d=1.1344  gap=+15.0%  dBeta=+0.1706  cert=1  t_relax=21s  t_de=2403s
+seed=20261144  beta_r=4.3509  beta_d=-1.5234  gap=+385.6%  dBeta=+5.8743  cert=1  t_relax=83s  t_de=1585s
+seed=20261145  beta_r=-2.8788  beta_d=-3.0274  gap=+4.9%  dBeta=+0.1486  cert=1  t_relax=112s  t_de=1418s
+seed=20261146  beta_r=-6.6676  beta_d=-7.2977  gap=+8.6%  dBeta=+0.6301  cert=1  t_relax=22s  t_de=1574s
+seed=20261147  beta_r=0.9410  beta_d=0.3029  gap=+210.6%  dBeta=+0.6380  cert=1  t_relax=14s  t_de=1163s
+seed=20261148  beta_r=-0.2418  beta_d=-0.3310  gap=+27.0%  dBeta=+0.0892  cert=1  t_relax=90s  t_de=1107s
+seed=20261149  beta_r=5.1320  beta_d=1.7048  gap=+201.0%  dBeta=+3.4272  cert=1  t_relax=51s  t_de=1387s
+seed=20261150  beta_r=-3.4595  beta_d=-4.0813  gap=+15.2%  dBeta=+0.6218  cert=1  t_relax=66s  t_de=1524s
+seed=20261151  beta_r=0.8446  beta_d=0.8174  gap=+3.3%  dBeta=+0.0272  cert=1  t_relax=64s  t_de=1504s
+seed=20261152  beta_r=-4.2559  beta_d=-5.2852  gap=+19.5%  dBeta=+1.0293  cert=1  t_relax=84s  t_de=1485s
