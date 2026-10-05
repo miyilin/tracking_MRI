@@ -43,17 +43,6 @@ Outputs (regenerated under `results/public/`):
 Figure 3 prefers `sec52_results.mat`; otherwise reads `mc_table_sec52.csv`.  
 Figure 4 prefers `sec53_alpha_results.mat`; otherwise reads `alpha_sensitivity_sec53.csv`.
 
-## Sync from main experiment repo
-
-In the parent project (`error_bounded_tracking/`), after updating Monte Carlo or $\alpha$ sensitivity runs:
-
-```matlab
-sync_tracking_mri_public
-cd tracking_MRI
-plot_paper_figures
-```
-
-Edit paths at the top of `sync_tracking_mri_public.m` if your latest export files differ.
 
 ## Repository layout
 
