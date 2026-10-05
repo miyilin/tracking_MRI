@@ -1,0 +1,12 @@
+% Auto-generated numbers for Section 5.2 (paste into .tex)
+
+N systems: 100 (DE-certified)
+Median relative gap: 13.8\%%
+Mean relative gap: 58.2\%%
+Std relative gap: 155.9\%%
+Mean DE runtime: 1547 s (25.8 min)
+Mean Proposed runtime: 3.01 s
+Median Proposed runtime: 2.99 s
+
+% Example sentence:
+The median relative optimality gap is 13.8\%% (mean 58.2\%%). The global DE solver required an average of 1547\,s per system, whereas the proposed method averaged 3.0\,s (median 3.0\,s).
